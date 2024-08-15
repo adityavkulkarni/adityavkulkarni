@@ -1,16 +1,13 @@
-## Hi there 👋
+🚀 Tech Innovator | ML Enthusiast | Software Engineer
+🎓 MS in Computer Science @UTDallas | Ex-SDE @PubMatic
 
-<!--
-**adityavkulkarni/adityavkulkarni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tech Stack:
+ML/AI: PyTorch, Hugging Face, Scikit-learn, NLTK
+Big Data: Apache Spark, Kafka, HDFS, Hive
+DevOps: Docker, Jenkins, Git
+Analytics: ELK Stack, Pandas, SciPy
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Current Focus:
+Exploring the intersection of software engineering and ML systems
+Developing scalable solutions for real-time data processing and analysis
+Investigating applications of generative AI in software development
