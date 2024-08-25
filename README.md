@@ -1,6 +1,6 @@
 🚀 Tech Innovator | ML Enthusiast | Software Engineer
 
-🎓 MS in Computer Science @UTDallas | Ex-SDE @PubMatic
+🎓 MS in Computer Science @UTDallas | Ex-SDET @PubMatic
 
 💻 Tech Stack:
 - ML/AI: PyTorch, Hugging Face, Scikit-learn, NLTK
